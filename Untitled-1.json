@@ -1,0 +1,24 @@
+{
+    "name": "Twitter_Ad_Block",
+    "version": "0.1.0",
+    "lockfileVersion": 1,
+    "requires": true,
+    "packages": {
+        "": {
+            "name": "Twitter_Ad_Block",
+            "version": "0.1.0",
+            "license": "MIT license",
+            "devDependencies": {
+
+            }
+        },
+        "node_modules/@sodisliked/configuration": {
+            "version": "0.1.0",
+            "resolved": "https://github.com/SoDisliked/Twitter-AdBlocker"
+            "dev": true,
+            "devDependencies": {
+                "configuration": true,
+            }
+        },
+    }
+}
